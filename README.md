@@ -1,0 +1,1 @@
+#Resume builder is a user-friendly centralized project built with HTML ,CSS AND JAVASCRIPT that dynamically formats and presents information in visually engaging resumes, adapting to evolving job market standards
